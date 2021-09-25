@@ -3,7 +3,7 @@
   <a href="https://github.com/Lucasolidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasolidev&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/
      
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolidev&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolidev&theme=slateorange&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
        
 </div>
   
