@@ -3,7 +3,7 @@
 ### Sobre mim
 
   - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema, atualmente estou cursando o 2° semestre.
-  - 🎯 Desenvolvendo: Python, SQL, HTML, CSS.
+  - 🎯 Desenvolvendo: Python, SQL.
   - 🦊 Tenho a formação "Técnico em Eletrônica" e atualmente trabalho com manutenção de equipamento médico, Raios-x (Simiens, Toshiba, Lotus, GE), Ultrassom, CR AGFA,       Tomografia e Mamografia. 
   - 🎮 Gosto de jogar no meu Playstation 5, Call Of Duty - Cold War e Warzone.
 ##
