@@ -31,6 +31,7 @@
  <div align="center">
    
    ![Snake animation](https://github.com/lucasolidev/lucasolidev/blob/output/github-contribution-grid-snake.svg)
+   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
  </div>
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
