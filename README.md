@@ -11,7 +11,7 @@
   <a href="https://github.com/Lucasolidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasolidev&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolidev&layout=compact&theme=slateorange)]([https://github.com/anuraghazra](https://github.com/Lucasolidev/github-readme-stats)   
 </div>
     
 ## Skills :nerd_face:  
