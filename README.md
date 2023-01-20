@@ -2,9 +2,8 @@
 
 ### Sobre mim
 
-  - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema, atualmente estou cursando o 3° semestre.
+  - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema, atualmente estou cursando o 4° semestre.
   - 🎯 Desenvolvendo: Python, SQL.
-  - 🦊 Tenho a formação "Técnico em Eletrônica" e atualmente trabalho com manutenção de equipamento médico, Raios-x (Simiens, Toshiba, Lotus, GE), Ultrassom, CR AGFA,       Tomografia e Mamografia. 
   - 🎮 Gosto de jogar no meu Playstation 5, Call Of Duty, Assassin's Creed, Far Cry e Tom Clancy's Ghost Recon.
 ##
 <div align="center">
