@@ -16,6 +16,9 @@
 ## Skills :nerd_face:  
 <div align="center"> 
  <img align="center" alt="Lucas-Python" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+ <img align="center" alt="Lucas-Python" height="60" width="70" img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          ">
 </div>
     
 ## Contact :iphone: 
