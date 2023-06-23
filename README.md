@@ -29,9 +29,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucas-oliveira-da-silva-2021/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <div align="center">
-   
-   ![Snake animation](https://github.com/lucasolidev/lucasolidev/blob/output/github-contribution-grid-snake.svg)
-   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
  </div>
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
