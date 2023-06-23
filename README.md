@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-  - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema, atualmente estou cursando o 4° semestre.
+  - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema.
   - 🎯 Desenvolvendo: Python, SQL.
-  - 🎮 Gosto de jogar no meu Playstation 5, Call Of Duty, Assassin's Creed, Far Cry e Tom Clancy's Ghost Recon.
+  - 🎮 Gosto de jogar no meu Playstation 5, Call Of Duty, Assassin's Creed e Far Cry.
 ##
 <div align="center">
   <a href="https://github.com/Lucasolidev">
